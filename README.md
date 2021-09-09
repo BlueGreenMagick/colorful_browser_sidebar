@@ -1,4 +1,4 @@
-This add-on lets you customize icon colors in the browser sidebar.
+[Colorful Browser Sidebar](https://ankiweb.net/shared/info/929609616) lets you customize icon colors in the browser sidebar.
 
 ![Screenshot](https://raw.githubusercontent.com/BlueGreenMagick/colorful_browser_sidebar/master/screenshots/demo.png)
 
