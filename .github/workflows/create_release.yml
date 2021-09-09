@@ -12,7 +12,7 @@ jobs:
     name: Version ${{ github.event.inputs.version }}
     runs-on: ubuntu-latest
     env:
-      ADDON_NAME: Review Hotmouse
+      ADDON_NAME: Colorful Browser
       # Path of files to put inside addon root when creating addon file. Whitespace separated.
       BUNDLE_FILES: LICENSE README.md
       # Path of addon root in repo.
